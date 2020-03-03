@@ -6,3 +6,4 @@ Rencana Kontent Youtube Saya
 - React JS
 - CSS
 - python
+- java
