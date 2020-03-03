@@ -1,6 +1,7 @@
 Rencana Kontent Youtube Saya 
 - Javascript
   * ES6
+  * angular
   - Laravel
 - React JS
-- CSS
+- java
